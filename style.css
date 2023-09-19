@@ -1,0 +1,49 @@
+.fcont{
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   grid-template-rows: 1fr 1fr 1fr;
+   row-gap:10px ;
+   column-gap: 10px;
+   background-color: mediumseagreen;
+   width: 600px;
+   height: 600px;
+   padding: 5%;
+   padding-right:3% ;
+   padding-bottom: 3%;   
+
+   
+
+}
+
+.fit{
+   height: 150px;
+    width: 150px;
+    justify-self:space-evenly ;
+   
+    background-color: aliceblue;
+    border: 2px black solid;
+    border-radius: 15px;
+   
+}
+
+.i1{
+    
+    place-items: center;
+    align-items: center;
+
+
+}
+.i2{
+   
+
+}
+.i3{
+   
+}
+.i4{
+   
+} 
+.i6{
+    
+}
+
